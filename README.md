@@ -5,3 +5,5 @@ I'm a software developer, data hacker, financial tinkerer, algorithmic trader, q
 > [!TIP]
 > Get actionable tips, real-world strategies, and insider stories on coding, indie hacking, finance, and solo entrepreneurship.<br>
 > Sign up to my newsletter 👉 https://aroussi.com/subscribe
+
+𝕏 / [@aroussi](https://x.com/aroussi)

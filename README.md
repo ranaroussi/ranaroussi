@@ -1,10 +1,9 @@
 ### Hi, I'm Ran 👋
 
-I'm a self-taught software engineer with 30+ years building production systems – from ad-serving engines delivering 3 billion ads daily to creating 📈 [yfinance](/ranaroussi/yfinance), one of the world's most widely adopted data libraries (10M+ monthly users).
+Self-taught programmer. 35+ years of production code. Still shipping.
 
-I build production AI infrastructure at 🧠 [MUXI](https://muxi.org) and wrote the book on 📚[Production-Grade Agentic AI](https://productionaibook.com), the infrastructure handbook for autonomous systems that actually work at scale.
+I created 📈 [yfinance](https://github.com/ranaroussi/yfinance) and other open-source tools used by millions of developers — 30M+ downloads per month w/ 50K+ GitHub stars. I wrote 📚 [Production-Grade Agentic AI](https://productionaibook.com), the handbook for autonomous systems that actually hold up in production.
 
-Through 🏢 [Automaze](https://automaze.io), I help teams bridge the gap between ideas, demos, and deployable systems using pragmatic engineering and production-ready infrastructure.
+These days I'm building 🧠 [MUXI](https://muxi.dev) (open-source infrastructure for AI agents) and [Cloop](https://cloop.dev) (autonomous engineering control plane), and running 🏢 [Automaze](https://automaze.io) (CTO-as-a-Service, 92% retention) and [VarOps](https://varops.com) (systems-level advisory for companies building with AI).
 
-I host 🎙️ [Old School; New Tech](https://OldSchoolNewTech.com) – a podcast where old-school engineering meets new technology – and write 💌 [Code Daddy](https://aroussi.com/subscribe) - a newsletter filled with actionable tips, real-world strategies, and insider stories on coding, indie hacking, finance, and solo entrepreneurship.
-
+I host 🎙️ [Old School; New Tech](https://oldschoolnewtech.com) and write 💌 [Code Daddy](https://aroussi.com/subscribe) — a newsletter for developers, indie makers, and solo entrepreneurs.

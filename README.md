@@ -8,6 +8,8 @@ These days I'm building 🧠 [**MUXI**](https://muxi.dev) (open-source infrastru
 
 I host 🎙️ [Old School; New Tech](https://oldschoolnewtech.com) and write 💌 [Code Daddy](https://aroussi.com/subscribe) — a newsletter for developers, indie makers, and solo entrepreneurs.
 
+---
+
 ### Popular projects
 
 - 📈 **[yfinance](https://github.com/ranaroussi/yfinance)** (20M downloads/mo) - the most popular financial market data library
@@ -16,7 +18,7 @@ I host 🎙️ [Old School; New Tech](https://oldschoolnewtech.com) and write �
 - 🛣️ **[vibeproxy](https://github.com/automazeio/vibeproxy)** - use your Claude / ChatGPT subscriptions with any coding agent
 - 👻 **[muxi-ai](https://github.com/muxi-ai/muxi)** - infrastructure for production-grade AI agents
 
-### Recent project
+### Recent projects
 
 - 💮 **[proof](https://github.com/automazeio/proof)** - visual proof of work for automated code changes
 - 🔫 **[minigun](https://github.com/ranaroussi/minigun)** - self-hosted email sender on top of Mailgun and Cloudflare

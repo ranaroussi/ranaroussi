@@ -25,3 +25,6 @@ I host 🎙️ [Old School / New Tech](https://oldschoolnewtech.com) and write �
 - 💬 **[imsg-relay](https://github.com/ranaroussi/imsg-relay)** - turn any Mac into a programmable iMessage gateway
 - 📧 **[mailgent](https://github.com/ranaroussi/mailgent)** email infrastructure for AI agents
 - 🐘 **[tiny](https://github.com/ranaroussi/tiny)** - zero-config, batteries-included PHP framework
+- 🔗 **[machook](https://github.com/ranaroussi/machook)** - send webhooks to your Mac
+
+

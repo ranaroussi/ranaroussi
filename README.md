@@ -22,9 +22,9 @@ I host 🎙️ [Old School / New Tech](https://oldschoolnewtech.com) and write �
 
 - 💮 **[proof](https://github.com/automazeio/proof)** - visual proof of work for automated code changes
 - 🔫 **[minigun](https://github.com/ranaroussi/minigun)** - self-hosted email sender on top of Mailgun and Cloudflare
-- 💬 **[imsg-relay](https://github.com/ranaroussi/imsg-relay)** - turn any Mac into a programmable iMessage gateway
-- 📧 **[mailgent](https://github.com/ranaroussi/mailgent)** email infrastructure for AI agents
+- 💬 **[imsg-relay](https://github.com/varops/imsg-relay)** - turn any Mac into a programmable iMessage gateway
+- 📧 **[mailgent](https://github.com/varops/mailgent)** email infrastructure for AI agents
 - 🐘 **[tiny](https://github.com/ranaroussi/tiny)** - zero-config, batteries-included PHP framework
-- 🔗 **[machook](https://github.com/ranaroussi/machook)** - send webhooks to your Mac
+- 🔗 **[machook](https://github.com/varops/machook)** - send webhooks to your Mac
 
 

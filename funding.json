@@ -1,0 +1,100 @@
+{
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.1.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "Ran Aroussi",
+    "email": "ran@aroussi.com",
+    "description": "I'm Ran Aroussi, a software developer based in London. I have been writing code for more than 35 years, and I created and maintain yfinance and QuantStats, two of the most widely used open-source finance libraries in Python. Between them they are downloaded more than 19 million times a month from PyPI, and they are used every day by students, teachers, researchers, independent investors, data scientists and companies around the world.\n\nBoth libraries are Apache-2.0 licensed and free for anyone to use. This application asks for support so that I can give them steady, dedicated maintainer time: triaging issues, reviewing pull requests, fixing breakage quickly, hardening the release process, and improving tests and documentation. Each project below has its own plan and its own funding request.",
+    "webpageUrl": {
+      "url": "https://aroussi.com",
+      "wellKnown": "https://aroussi.com/.well-known/funding-manifest-urls"
+    }
+  },
+  "projects": [
+    {
+      "guid": "yfinance",
+      "name": "yfinance",
+      "description": "yfinance is a Python library that gives anyone free and simple access to market data from Yahoo Finance: historical prices, dividends and splits, company fundamentals, options chains, news and more, returned as pandas DataFrames. I started it in May 2017 (first published as fix-yahoo-finance) after Yahoo shut down its official API, and it has become the default way many people get market data into Python.\n\nAs of October 2026: about 25,500 GitHub stars, 3,400 forks, 187 contributors, 150 releases on PyPI, and about 18.6 million PyPI downloads in the last month. deps.dev lists about 900 PyPI packages that depend on it.\n\nyfinance relies on Yahoo endpoints that are unofficial and undocumented, so it breaks whenever Yahoo changes something, usually without notice, and a large number of downstream tools break with it. Keeping it working is constant, reactive work.\n\nWhat the funding pays for (plan: yfinance-maintenance, USD 100,000 per year):\n- Regular paid maintainer time to work through the backlog (57 open issues and 52 open pull requests today) and keep response times short.\n- Breakage resilience: scheduled smoke tests against the live Yahoo endpoints, alerts when responses change, faster hotfix releases, and sturdier handling of rate limits, cookies and schema changes.\n- Security and supply chain: PyPI trusted publishing, build provenance and signed releases, dependency scanning, and a published security policy.\n- Tests and CI across supported Python and pandas versions, using recorded fixtures so the core suite does not depend on the network.\n- Documentation: an up-to-date API reference, guides, and clear migration notes for breaking changes.\n- A predictable release cadence with changelogs.",
+      "webpageUrl": {
+        "url": "https://github.com/ranaroussi/yfinance"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/ranaroussi/yfinance"
+      },
+      "licenses": [
+        "spdx:Apache-2.0"
+      ],
+      "tags": [
+        "finance",
+        "data",
+        "api",
+        "data-science",
+        "python",
+        "market-data",
+        "pandas",
+        "stock-market"
+      ]
+    },
+    {
+      "guid": "quantstats",
+      "name": "QuantStats",
+      "description": "QuantStats is a Python library for portfolio analytics. It calculates performance and risk metrics such as Sharpe and Sortino ratios, drawdowns, volatility and value at risk, draws the standard performance charts, and builds complete HTML tear-sheet reports from a single line of code. Analysts, students, educators and independent and professional investors use it to understand how a strategy or portfolio really performed.\n\nAs of October 2026: about 7,700 GitHub stars, 1,260 forks, 36 contributors, 82 releases on PyPI since May 2019, and about 563,000 PyPI downloads in the last month. GitHub reports about 1,470 repositories and 90 packages that depend on it.\n\nPeople make real decisions based on these numbers, so correctness matters more than features. Recent fixes, such as cross-column contamination in multi-asset inputs and rolling alpha calculations, show how subtle these bugs can be.\n\nWhat the funding pays for (plan: quantstats-maintenance, USD 50,000 per year):\n- Regular paid maintainer time to review and land or close the 21 open pull requests and 5 open issues, then keep the queue short.\n- Correctness: a numeric test suite that checks every metric against reference implementations and published formulas.\n- Compatibility with current and upcoming pandas, NumPy, matplotlib and Python releases, tested in CI.\n- Security and supply chain: PyPI trusted publishing, build provenance, dependency scanning, and a security policy.\n- Documentation for every metric, with its formula, assumptions and an example.\n- Regular releases with changelogs.",
+      "webpageUrl": {
+        "url": "https://github.com/ranaroussi/quantstats"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/ranaroussi/quantstats"
+      },
+      "licenses": [
+        "spdx:Apache-2.0"
+      ],
+      "tags": [
+        "finance",
+        "analytics",
+        "data-science",
+        "data-visualization",
+        "python",
+        "portfolio-analytics",
+        "risk-management"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "ran-bank",
+        "type": "bank",
+        "address": "",
+        "description": "Direct bank transfer in USD to Ran Aroussi's Wise USD account. Account details are shared privately by email with funders."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "yfinance-maintenance",
+        "status": "active",
+        "name": "yfinance maintenance and resilience",
+        "description": "For the yfinance project. Pays for dedicated maintainer time (backlog triage, reviews, fast fixes when Yahoo changes), live-endpoint smoke tests and alerts, supply-chain hardening, tests, CI, docs and regular releases.",
+        "amount": 100000,
+        "currency": "USD",
+        "frequency": "yearly",
+        "channels": [
+          "ran-bank"
+        ]
+      },
+      {
+        "guid": "quantstats-maintenance",
+        "status": "active",
+        "name": "QuantStats maintenance and correctness",
+        "description": "For the QuantStats project. Pays for dedicated maintainer time (clearing the pull request backlog), a numeric correctness test suite, compatibility with new pandas, NumPy and Python releases, supply-chain hardening, metric docs and regular releases.",
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "yearly",
+        "channels": [
+          "ran-bank"
+        ]
+      }
+    ]
+  }
+}

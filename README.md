@@ -1,30 +1,33 @@
 ### Hi, I'm Ran 👋
 
-Self-taught programmer. 35+ years of production code. Still shipping.
+#### I build software for for people who build software.
 
-I created 📈 [yfinance](https://github.com/ranaroussi/yfinance) and other open-source tools used by millions of developers — 30M+ downloads per month w/ 50K+ GitHub stars. I wrote 📚 [Production-Grade Agentic AI](https://productionaibook.com), the handbook for autonomous systems that actually hold up in production.
+35+ years of production code. Still shipping.
 
-These days I'm building 🧠 [**MUXI**](https://muxi.dev) (open-source infrastructure for AI agents) and [Cloop](https://cloop.dev) (autonomous engineering control plane), and running 🏢 [Automaze](https://automaze.io) (CTO-as-a-Service, 92% retention) and [VarOps](https://varops.com) (systems-level advisory for companies building with AI).
+I created 📈 [yfinance](https://github.com/ranaroussi/yfinance) and other open-source tools used by millions of developers – totaling ~50M downloads per month w/ 50K+ GitHub stars. I wrote 📚 [two books on production AI](https://varops.com/books/?splash=0), host the 🎙️ [Old School / New Tech](https://varops.com/podcasts/?splash=0) podcast, and write 💌 [a newsletter](https://aroussi.com/subscribe) for developers, indie makers, and entrepreneurs.
 
-I host 🎙️ [Old School / New Tech](https://oldschoolnewtech.com) and write 💌 [Code Daddy](https://aroussi.com/subscribe) — a newsletter for developers, indie makers, and solo entrepreneurs.
+I'm building [MUXI](https://muxi.org) (open-source infrastructure for AI agents), and running managed software factories at [Automaze Works](https://automaze.works), and [Resident AI](https://varops.com/resident-ai/?splash=0) at [VarOps](https://varops.com/?splash=).
 
 ---
 
 ### Popular projects
 
 - 📈 **[yfinance](https://github.com/ranaroussi/yfinance)** (20M downloads/mo) - the most popular financial market data library
-- 📊 **[quantstats](https://github.com/ranaroussi/quantstats)** - the #1 Python library for portfolio analytics
-- 💻 **[ccpm](https://github.com/automazeio/ccpm)** - spec-driven development for AI agents
-- 🛣️ **[vibeproxy](https://github.com/automazeio/vibeproxy)** - use your Claude / ChatGPT subscriptions with any coding agent
-- 👻 **[muxi-ai](https://github.com/muxi-ai/muxi)** - infrastructure for production-grade AI agents
+- 📊 **[QuantStats](https://github.com/ranaroussi/quantstats)** - the #1 Python library for portfolio analytics
+- 💻 **[CCPM](https://github.com/automazeio/ccpm)** - spec-driven development for AI agents
+- 🛣️ **[VibeProxy](https://github.com/automazeio/vibeproxy)** - use your Claude / ChatGPT subscriptions with any coding agent
+- 👻 **[MUXI](https://github.com/muxi-ai/muxi)** - infrastructure for production-grade AI agents
 
 ### Recent projects
 
-- 💮 **[proof](https://github.com/automazeio/proof)** - visual proof of work for automated code changes
-- 🔫 **[minigun](https://github.com/ranaroussi/minigun)** - self-hosted email sender on top of Mailgun and Cloudflare
-- 💬 **[imsg-relay](https://github.com/varops/imsg-relay)** - turn any Mac into a programmable iMessage gateway
-- 📧 **[mailgent](https://github.com/varops/mailgent)** email infrastructure for AI agents
-- 🐘 **[tiny](https://github.com/ranaroussi/tiny)** - zero-config, batteries-included PHP framework
-- 🔗 **[machook](https://github.com/varops/machook)** - send webhooks to your Mac
+- 💮 **[Proof](https://github.com/automazeio/proof)** - visual proof of work for automated code changes
+- 🔫 **[Minigun](https://github.com/ranaroussi/minigun)** - self-hosted email sender on top of Mailgun and Cloudflare
+- 💬 **[iMsg-relay](https://github.com/varops/imsg-relay)** - turn any Mac into a programmable iMessage gateway
+- 📧 **[Mailgent](https://github.com/varops/mailgent)** email infrastructure for AI agents
+- 🐘 **[Tiny](https://github.com/ranaroussi/tiny)** - zero-config, batteries-included PHP framework
+- 🔗 **[Machook](https://github.com/varops/machook)** - send webhooks to your Mac
+- 🚅 **[gHF](https://github.com/varops/ghf)** - high-frequency source control for AI agents
+- 📜 **[Sitstory](https://github.com/varops/gitstory)** - evidence-backed engineering memory for Git commits.
+- 🛜 **[ACTP](https://github.com/varops/actp)** - run coding agents from anywhere (ACP over HTTP)
 
 

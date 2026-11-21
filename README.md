@@ -20,6 +20,7 @@ I'm building [MUXI](https://muxi.org) (open-source infrastructure for AI agents)
 
 ### Recent projects
 
+- ✍️ **[Signed.md](https://github.com/varops/signed-md)** - AI-native document signing
 - 💮 **[Proof](https://github.com/automazeio/proof)** - visual proof of work for automated code changes
 - 🔫 **[Minigun](https://github.com/ranaroussi/minigun)** - self-hosted email sender on top of Mailgun and Cloudflare
 - 💬 **[iMsg-relay](https://github.com/varops/imsg-relay)** - turn any Mac into a programmable iMessage gateway
